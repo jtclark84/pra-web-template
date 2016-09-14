@@ -14,14 +14,13 @@
     "test",
     "tests"
   ],
-  "_release": "073f75ef4c",
+  "_release": "8ddf592303",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "073f75ef4cb5ef57ddb494cebe02fd3f4b31f80f"
+    "commit": "8ddf5923032e809397e8f0bfde8b2bef9edec2a8"
   },
   "_source": "https://github.com/jtclark84/pra-brand.git",
   "_target": "*",
-  "_originalSource": "pra-brand",
-  "_direct": true
+  "_originalSource": "pra-brand"
 }

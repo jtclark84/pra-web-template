@@ -4,7 +4,7 @@
 \*------------------------------------*/
 /**
  *
- * sass --watch main.scss:main.min.css --style compressed
+ * sass --watch ./bower_components/pra-brand/main.scss:.css/main.min.css --style compressed
  *
  * Here we pull in some variables, include pra-brand/main.scss, then add our
  * project-specific components afterwards.
